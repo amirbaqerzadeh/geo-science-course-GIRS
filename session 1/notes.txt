@@ -1,0 +1,33 @@
+- download miniconda:
+https://www.anaconda.com/download
+
+
+- download vscode:
+https://code.visualstudio.com/download
+
+- video of the session 1:
+https://mega.nz/folder/9WtTmBAI#Dg7iPslTThnvfYDT6aJL_Q
+
+
+what is Object Oreinted Programming:
+https://mega.nz/file/0PsTQaxR#1ZXJmlIXd6J2X2b-yWVeCH0KwYppNwyMnEtnc3xE-a8
+
+
+
+live editors:
+- Livescode
+- google colab
+- https://github.com/thonny/thonny/releases
+
+
+
+- 
+
+- how to create a conda environment step by step:
+https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+
+algorithm
+https://ibp.ir/?p=1481
+https://www.ebooksworld.ir/post/index/949
+
+
