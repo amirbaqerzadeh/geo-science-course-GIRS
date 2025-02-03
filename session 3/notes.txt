@@ -1,7 +1,9 @@
-pip install -r requirements.txt
-
 image procesing project:
 https://numpy.org/doc/1.19/user/tutorial-svd.html
 
 what is convolution? see this wonderful explanation:
 https://www.youtube.com/watch?v=KuXjwB4LzSA
+
+
+videio of the class:
+https://mega.nz/file/BXMGUB7C#wTaw1O4XEiKg0DpqtDogyzV_LPO_TbPkeAURK8r29Ss
