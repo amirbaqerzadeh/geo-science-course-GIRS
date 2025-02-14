@@ -1,0 +1,5 @@
+xarray tutorial:
+https://tutorial.xarray.dev/intro.html
+
+download netcdf files to exercise:
+https://www.unidata.ucar.edu/software/netcdf/examples/files.html
