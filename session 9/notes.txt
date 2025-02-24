@@ -1,0 +1,6 @@
+- concatenate the data files
+- extract temperature from synop codes
+- handle missing data
+- plot the data
+- sort data based on date for example per day or per month or per week
+- delete duplicated rows
