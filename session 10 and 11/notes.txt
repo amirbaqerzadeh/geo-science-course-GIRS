@@ -1,0 +1,24 @@
+download wrf-data here:
+https://drive.google.com/file/d/1rY6WniHal4OE3HNs03QGB5EG8tp8Uxqk/view?usp=sharing
+
+what is the WRF:
+https://www2.mmm.ucar.edu/wrf/OnLineTutorial/
+
+CRS (coordinate reference systems) in python:
+https://scitools.org.uk/cartopy/docs/v0.15/crs/projections.html
+
+what is wind barbs:
+http://colaweb.gmu.edu/dev/clim301/lectures/wind/wind-uv
+
+wrf_python_tutorial on github:
+http://colaweb.gmu.edu/dev/clim301/lectures/wind/wind-uv
+
+how to clone tutorail with data:
+git clone --recurse-submodules https://github.com/NCAR/wrf_python_tutorial.git
+
+
+table of variables' name in wrf-python:
+https://wrf-python.readthedocs.io/en/latest/diagnostics.html#diagnostic-table
+
+merge, join and cat tables in python:
+https://pandas.pydata.org/docs/user_guide/merging.html
